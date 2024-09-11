@@ -1,0 +1,14 @@
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.exe
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.deps.json
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.runtimeconfig.json
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.dll
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\bin\Debug\net8.0\2024-09-11.pdb
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.AssemblyInfoInputs.cache
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.AssemblyInfo.cs
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.csproj.CoreCompileInputs.cache
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.dll
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\refint\2024-09-11.dll
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.pdb
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\2024-09-11.genruntimeconfig.cache
+C:\Users\stiegelmayer.balint\source\repos\2024-09-11\2024-09-11\obj\Debug\net8.0\ref\2024-09-11.dll
